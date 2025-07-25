@@ -5,29 +5,7 @@
     <meta charset="UTF-8">
     <title>Consulta del Clima</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            background-color: #f7f9fc;
-        }
-
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 90vh;
-        }
-
-        .card {
-            border-radius: 1rem;
-            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
-        }
-
-        .btn-clima:hover {
-            background-color: #0d6efd !important;
-            color: white !important;
-        }
-    </style>
+    <link rel="stylesheet" href="../css/clima.css">
 </head>
 
 <body>

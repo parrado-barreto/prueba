@@ -7,15 +7,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 </head>
 <body class="bg-light">
-
-    <!-- Navbar decorativo -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
             <span class="navbar-brand">Realtech - Prueba Técnica</span>
         </div>
     </nav>
 
-    <!-- Contenido principal -->
     <div class="container mt-5">
         <div class="text-center mb-4">
             <h1 class="mb-3">Bienvenido</h1>
